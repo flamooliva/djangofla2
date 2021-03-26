@@ -26,7 +26,7 @@ SECRET_KEY = 'z_nlgfz7g+5^^x=$)t)%$0nokv86!sx5&vxw*j#jhqx6=h^1$9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'https://flamooliva.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'https://mysite222.herokuapp.com/']
 
 
 # Application definition
